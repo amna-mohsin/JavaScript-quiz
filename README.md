@@ -5,6 +5,11 @@ A simple interactive quiz built with JavaScript. Users select one of 10 predefin
 ## Live Demo
 [JavaScript Quiz](https://javascript-quiz-a.netlify.app/)
 
+## Technologies Used
+- HTML5
+- CSS3 
+- Vanilla JavaScript
+
 ## Features
 - **10 JavaScript Exercises** covering:
   - Arithmetic operations (addition, subtraction, multiplication, division)
@@ -36,10 +41,6 @@ A simple interactive quiz built with JavaScript. Users select one of 10 predefin
 2. Open `index.html` in your web browser.  
 3. Select a question number to run the corresponding JavaScript code.
 
-## Technologies Used
-- HTML5
-- CSS3 
-- Vanilla JavaScript
   
 ## Owner
 
